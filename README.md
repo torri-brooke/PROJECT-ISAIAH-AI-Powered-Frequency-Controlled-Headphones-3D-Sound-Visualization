@@ -99,4 +99,4 @@ By contributing to this project, collaborators agree to:
 
 ## Contact
 
-For questions or feedback, please contact the project maintainers via [your-email@example.com] or submit an issue in the repository.
+For questions or feedback, please contact the project maintainers via [harmony-sound-software@proton.me] or submit an issue in the repository.
