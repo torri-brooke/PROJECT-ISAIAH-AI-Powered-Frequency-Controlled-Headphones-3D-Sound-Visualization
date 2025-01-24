@@ -1,4 +1,4 @@
-# PROJECT ZYPHERIA: AI-Powered Frequency-Controlled Headphones with 3D Sound Visualization and User Override
+# PROJECT GALIELO: AI-Powered Frequency-Controlled Headphones with 3D Sound Visualization and User Override
 
 ## Overview
 This open-source project combines advanced AI-powered audio and visual technologies to enable users to shape their auditory and visual environments with unparalleled precision. By integrating AI-driven sound frequency detection, noise modulation, biofeedback, and 3D visualization through AR glasses or other visual technologies, users can enhance situational awareness, safety, and creativity—all while maintaining full control of the technology.
